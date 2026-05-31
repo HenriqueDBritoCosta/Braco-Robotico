@@ -1,7 +1,12 @@
 # Braço Robótico de Coleta de Amostras (Docking & Retrieval)
 
 ## Integrantes
-
+| Nome | RM |
+|------|-----|
+| Adriano Lopes | RM98574 |
+| Henrique de Brito | RM98831 |
+| Rodrigo Lima | RM98326 |
+| Rodrigo Fernandes Serafim | RM550816|
 
 
 ## Simulador
