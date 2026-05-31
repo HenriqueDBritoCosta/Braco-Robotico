@@ -8,6 +8,9 @@
 
 https://www.tinkercad.com/things/dOwG9PixcRF/editel?returnTo=%2Fdashboard%2Fdesigns%2Fall&sharecode=RW9uvLnNr_HpaEC8VtuJQYmy6i7e8bxCKPd3MBDwhmw
 
+<img width="1171" height="659" alt="image" src="https://github.com/user-attachments/assets/230c50f9-42f9-47d0-92c9-1e992995dd9e" />
+
+
 ## Guia de Operação
 
 Utilize o Monitor Serial (9600 baud) e os seguintes comandos:
